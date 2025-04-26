@@ -1,2 +1,36 @@
-# wedding-certificate
-2121
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>结婚证书 - Yuhuai Cheng & Rifa Leno</title>
+    <style>
+        body { background: url('https://i.imgur.com/4QZQ2aA.jpg'); background-size: cover; min-height: 100vh; display: flex; justify-content: center; align-items: center; font-family: 'Times New Roman'; padding: 20px; }
+        .certificate { max-width: 800px; text-align: center; padding: 40px; border: 20px double #8B4513; background: rgba(255,255,255,0.9); box-shadow: 0 0 20px rgba(0,0,0,0.3); }
+        h1 { font-size: 32px; color: #5C4033; }
+        .verse { font-style: italic; color: #6B4F3D; }
+        .names { font-size: 28px; color: #8B0000; }
+        .date { font-size: 24px; color: #5C4033; }
+        .signature { font-family: 'Brush Script MT'; color: #2F4F4F; }
+    </style>
+</head>
+<body>
+    <div class="certificate">
+        <h1>Certificate of Marriage</h1>
+        <div class="verse">
+            Place me like a seal over your heart, like a seal on your arm;<br>
+            for love is as strong as death, its jealousy unyielding as the grave.<br>
+            It burns like blazing fire, like a mighty flame.<br>
+            <strong>[Song of Songs 8:6]</strong>
+        </div>
+        <div class="names">Yuhuai Cheng & Rifa Leno</div>
+        <div class="date">
+            Were United In Marriage.<br>
+            March 22, 2000
+        </div>
+        <div class="signature">
+            Rev. Vol Ospand<br>
+            Prixton Church & University
+        </div>
+    </div>
+</body>
+</html>
